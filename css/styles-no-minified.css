@@ -119,6 +119,7 @@ a {text-decoration: none;}
 .attribution a {
     color: hsl(228, 45%, 44%);
     font-weight: 600;
+    text-decoration: underline;
 }
 .attribution a:hover {
     transition: .25s;
